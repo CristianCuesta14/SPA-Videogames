@@ -1,0 +1,11 @@
+
+
+
+
+---------RoadMapBack-----------
+Leer y enternder el Readme.   OK
+Crear los modelos------mas adelante crear un modelo diferente, modelo user para la autenticacion. OK //falta el modelo user
+Crear las rutas, pasandole como segundo parametro una funcion. // crear previamente las funciones. OK
+crear los handlers.
+crear los controllers.
+(test-----despues de crear el front)
